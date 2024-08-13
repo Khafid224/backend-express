@@ -18,3 +18,6 @@ C. Restful API Admin
 -
 1. uji coba get data users
 ![image](https://github.com/user-attachments/assets/25e7ade1-ecc9-4391-96a2-eec2aef6404a)
+
+2. uji coba insert data users
+![image](https://github.com/user-attachments/assets/d774b473-989a-4494-a76c-5bbd5b36fa9d)
