@@ -10,3 +10,7 @@ B. Restful API Auth
 -
 1. uji coba proses register
 ![image](https://github.com/user-attachments/assets/bb28e30d-9c51-4f2f-8b85-ddf7ff968b69)
+
+2. uji coba proses login
+![image](https://github.com/user-attachments/assets/156e68c4-782e-4498-b54b-0c8dd6a590da)
+
