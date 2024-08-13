@@ -14,3 +14,7 @@ B. Restful API Auth
 2. uji coba proses login
 ![image](https://github.com/user-attachments/assets/156e68c4-782e-4498-b54b-0c8dd6a590da)
 
+C. Restful API Admin
+-
+1. uji coba get data users
+![image](https://github.com/user-attachments/assets/25e7ade1-ecc9-4391-96a2-eec2aef6404a)
