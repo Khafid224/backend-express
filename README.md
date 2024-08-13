@@ -25,3 +25,6 @@ C. Restful API Admin
 3. uji coba menampilkan detail users
 ![image](https://github.com/user-attachments/assets/5dceb0b4-a858-442a-b359-1252cefbbdf6)
 
+4. uji coba hapus user
+![image](https://github.com/user-attachments/assets/0ba1f026-92b3-467a-a572-22c5c102afd8)
+
