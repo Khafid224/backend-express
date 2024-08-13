@@ -21,3 +21,7 @@ C. Restful API Admin
 
 2. uji coba insert data users
 ![image](https://github.com/user-attachments/assets/d774b473-989a-4494-a76c-5bbd5b36fa9d)
+
+3. uji coba menampilkan detail users
+![image](https://github.com/user-attachments/assets/5dceb0b4-a858-442a-b359-1252cefbbdf6)
+
